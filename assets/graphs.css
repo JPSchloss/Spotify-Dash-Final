@@ -1,0 +1,69 @@
+.graph-container {
+    background-color:  #1DB954;
+    width: 69%;
+    border: 5px solid #FFFFFF;
+    border-radius: 3px;
+    display: inline-block;
+    vertical-align: center;
+}
+
+.graph-container2 {
+    background-color:  #1DB954;
+    border: 5px solid #FFFFFF;
+    border-radius: 3px;
+}
+
+.graph-radio-buttons{
+    color: #1DB954;
+    width: 69%;
+    display: inline-block;
+    text-align: right;
+    padding-top: 2px;
+}
+
+.graph-radio-buttons2{
+    color: #1DB954;
+    display: inline-block;
+    text-align: right;
+}
+
+.graph-radio-buttons3{
+    color: #1DB954;
+    display: inline-block;
+    text-align: left;
+}
+
+
+.selection-box{
+    color: #1DB954;
+}
+
+.group-select-buttons{
+    width: 69%;
+    display: inline-block;
+    vertical-align: center;
+    padding-top: 5px;
+}
+
+.group-select-buttons2{
+    width: 69%;
+    display: inline-block;
+    vertical-align: center;
+    padding-top: 5px;
+}
+
+.group-text-containers{
+    width: 69%;
+    display: inline-block;
+    vertical-align: center;
+    padding-top: 5px;
+}
+
+.two-graphs{
+    width: 69%;
+    display: inline-block;
+    vertical-align: center;
+    padding-top: 10px;
+
+}
+
