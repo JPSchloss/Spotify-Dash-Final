@@ -1,6 +1,4 @@
-# DS4A Spotify Dash Application
-
-![Spotify Datafolio](Datafolio.png)
+# What Features Affect Spotify Collaboartions?
 
 This is the repository for the final Spotify Dash App created with Team 22 for Correlation One's 2021 Data Science For All Empowerment program. 
 
@@ -8,5 +6,12 @@ The files here mainly relate to the Dash Application and visuals, but the overal
 
 Also, the team presentation can be found here: https://vimeo.com/511567206
 
+
+# DS4A Spotify Datafolio
+
+![Spotify Datafolio](Datafolio.png)
+
+
+# DS4A Spotify Dash Application
 
 ![Spotify Dash App Demo](Silent-Dash-Overview.gif)
