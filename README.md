@@ -1,6 +1,6 @@
 # DS4A Spotify Dash Application
 
-![Spotify Datafolio](Datafolio - Final.png)
+![Spotify Datafolio](Datafolio.png)
 
 This is the repository for the final Spotify Dash App created with Team 22 for Correlation One's 2021 Data Science For All Empowerment program. 
 
